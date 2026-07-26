@@ -2,160 +2,157 @@
 
 # Hi, I'm Naveen Jayachandran 👋
 
-### Senior Platform Engineer | Cloud Native | Kubernetes | DevOps | AI Infrastructure
+### Staff Platform Engineer | Cloud Native | Kubernetes | AI Infrastructure
 
-Building reliable cloud platforms, automating infrastructure,
-and improving developer experience through modern engineering practices.
+I build cloud platforms, automate infrastructure, and create reliable engineering
+systems that help teams deliver software faster and safer.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&center=true&width=800&lines=Platform+Engineering;Kubernetes+%7C+Cloud+Native;Infrastructure+as+Code;GitOps+%7C+DevSecOps;AI+Infrastructure"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&center=true&width=800&lines=Platform+Engineering;Kubernetes+at+Scale;Cloud+Native+Architecture;Infrastructure+Automation;AI+Infrastructure"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Engineering Profile
 
-I'm a Platform Engineer passionate about designing and automating modern cloud platforms.
+Platform Engineer focused on designing and improving modern engineering platforms.
 
-I work on building systems that help engineering teams deploy software faster,
-operate reliably, and scale with confidence.
+My work combines:
 
-My focus areas:
-
-- Cloud Native Platforms
-- Kubernetes Engineering
+- Cloud Native Architecture
+- Kubernetes Platforms
 - Infrastructure Automation
 - Developer Experience
 - DevSecOps
 - Reliability Engineering
 - AI Infrastructure
 
-> Build simple solutions for complex problems.
+
+> Building simple, reliable platforms that remove complexity for engineers.
 
 ---
 
-## 🏗 Engineering Focus
+## 🏗 What I Build
 
-| Area | What I Build |
+| Area | Focus |
 |---|---|
-| Platform Engineering | Internal platforms, self-service workflows, developer enablement |
-| Kubernetes | Container platforms, cluster automation, workload management |
-| Cloud | Secure and scalable cloud infrastructure |
-| Automation | Infrastructure and delivery automation |
-| GitOps | Declarative deployments and continuous delivery |
-| Security | Secure-by-default engineering practices |
-| Observability | Monitoring, troubleshooting, reliability improvements |
-| AI Infrastructure | Modern platforms for AI workloads |
+| Platform Engineering | Internal Developer Platforms, self-service workflows |
+| Kubernetes | Cloud-native platforms, deployments, automation |
+| Cloud | Secure and scalable infrastructure |
+| Automation | Infrastructure as Code and delivery pipelines |
+| Reliability | Observability, operations, system improvements |
+| AI Infrastructure | Platforms for modern AI workloads |
 
 ---
 
 ## ⚙️ Technology Stack
 
-| Category | Technologies |
+| Domain | Technologies |
 |---|---|
 | Cloud | AWS • Azure • Google Cloud |
 | Containers | Kubernetes • Docker • Containerd |
 | Kubernetes Tools | Helm • Kustomize • Argo CD • Flux CD • Istio |
-| Infrastructure | Terraform • OpenTofu • Ansible • CloudFormation • Bicep |
-| CI/CD | GitHub Actions • Azure DevOps • GitLab CI • Jenkins |
+| Infrastructure | Terraform • OpenTofu • Ansible |
+| CI/CD | GitHub Actions • Azure DevOps • Jenkins |
 | Security | Vault • Trivy • Snyk • Checkov • OPA • Kyverno |
-| Observability | Prometheus • Grafana • OpenTelemetry • OpenSearch |
+| Observability | Prometheus • Grafana • OpenTelemetry |
 | Languages | Python • Bash • PowerShell • YAML |
 
 ---
 
-## ☁ Cloud Native Engineering
+## ☁️ Cloud Native Architecture
 
 ```
-Developer
-    |
-    v
-Source Control
-    |
-    v
-CI/CD Pipeline
-    |
-    v
-Security Checks
-    |
-    v
-GitOps Deployment
-    |
-    v
-Kubernetes Platform
-    |
-    v
-Cloud Infrastructure
-    |
-    v
-Monitoring & Reliability
+              Developers
+
+                   |
+                   ↓
+
+        Internal Developer Platform
+
+                   |
+                   ↓
+
+        GitOps + Automation Layer
+
+                   |
+                   ↓
+
+          Kubernetes Platform
+
+                   |
+                   ↓
+
+        Cloud Infrastructure
+
+                   |
+                   ↓
+
+     Security + Observability
 ```
 
 ---
 
-## 🤖 AI Infrastructure & Emerging Technologies
+## 🤖 AI Infrastructure
 
-Currently exploring how AI changes modern engineering platforms:
+Exploring the next generation of engineering platforms:
 
-| Area | Technologies |
-|---|---|
-| AI Applications | LLM Applications, AI Agents |
-| AI Frameworks | LangChain, LangGraph |
-| AI Protocols | MCP |
-| Model Serving | vLLM, Ollama, Ray Serve |
-| AI Operations | LLMOps, MLOps |
-| Data Retrieval | RAG, Vector Databases |
-| Infrastructure | GPU Kubernetes Workloads |
+- LLM infrastructure
+- AI application platforms
+- AI agents
+- RAG systems
+- MLOps workflows
+- GPU workloads on Kubernetes
+- Model serving platforms
+
 
 ---
 
-## 🔐 Engineering Principles
+## 🧠 Engineering Principles
 
-| Principle | Approach |
-|---|---|
-| Everything as Code | Infrastructure, configuration, automation |
-| Automation First | Reduce manual operational effort |
-| Security by Default | Protect systems from design stage |
-| Reliability Matters | Build systems that are observable and resilient |
-| Developer Experience | Make engineering workflows easier |
-| Continuous Learning | Improve through building and experimenting |
+```
+Everything as Code
+        +
+Automation First
+        +
+Security by Default
+        +
+Reliable Systems
+        +
+Developer Experience
+        +
+Continuous Improvement
+```
 
 ---
 
 ## 🚀 Current Focus
 
-- Building cloud-native platform patterns
-- Improving Kubernetes operations
-- Exploring AI platform engineering
-- Automating infrastructure workflows
-- Learning modern CNCF technologies
-- Designing reliable developer platforms
+- Kubernetes platform engineering
+- Internal Developer Platforms
+- Cloud automation patterns
+- Secure software delivery
+- AI platform engineering
+- Cloud-native technologies
+
 
 ---
 
-## 📌 Areas I Like Building
+## 📌 Engineering Projects
 
-```
-Kubernetes Platforms
-        |
-        |
-Infrastructure Automation
-        |
-        |
-GitOps Workflows
-        |
-        |
-DevSecOps Pipelines
-        |
-        |
-AI Infrastructure Experiments
-```
+| Project Area | Purpose |
+|---|---|
+| Kubernetes Platform | Production-ready cloud-native patterns |
+| Terraform Modules | Reusable infrastructure components |
+| GitOps Framework | Automated deployment workflows |
+| DevSecOps Toolkit | Security automation patterns |
+| AI Platform Lab | AI workload experiments |
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -169,20 +166,19 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenjayachandran&t
 
 ---
 
-## 🌱 Interests
-
-Cloud Native • Kubernetes • Platform Engineering • DevOps • AI Infrastructure • Open Source
-
----
-
 ## 🤝 Connect
+
+Always interested in conversations around:
+
+☁ Cloud Platforms  
+☸ Kubernetes  
+🚀 Platform Engineering  
+🔐 DevSecOps  
+🤖 AI Infrastructure  
+
 
 <div align="center">
 
-GitHub • LinkedIn
-
-<br/>
-
-**Cloud Native | Automation | Reliability | Engineering**
+### Building platforms. Automating complexity. Enabling engineers.
 
 </div>
